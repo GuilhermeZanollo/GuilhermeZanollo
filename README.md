@@ -14,4 +14,4 @@
 
 ### Linkedin:
 
-<a href="https://www.linkedin.com/in/guilherme-stein-zanollo-b6062518a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-stein-zanollo-b6062518a/?original_referer=" </a>
+<a href="https://www.linkedin.com/in/guilherme-stein-zanollo-b6062518a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" </a>
